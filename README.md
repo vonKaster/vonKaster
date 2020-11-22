@@ -1,6 +1,7 @@
 ### Hola, Soy Franco 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Frank0h_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Frank0h_)
+[![GitHub](https://img.shields.io/badge/GitHub-Frank0h-lightgray?logo=github&style=for-the-badge)](https://github.com/Frank0h)
+[![Discord](https://img.shields.io/badge/Discord-Frank0h%230001-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/346056678543851521)
 
 ## Sobre mi:
 
