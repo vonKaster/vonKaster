@@ -1,7 +1,7 @@
 ### Hola, Soy Franco 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-Frank0h-lightgray?logo=github&style=for-the-badge)](https://github.com/Frank0h)
-[![Discord](https://img.shields.io/badge/Discord-Frank0h%230001-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/346056678543851521)
+[![Discord](https://img.shields.io/badge/Discord-Kaster%235321-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/346056678543851521)
 
 ## Sobre mi:
 
