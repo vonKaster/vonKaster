@@ -33,7 +33,7 @@
 
 ### 📕 Estadisticas:
 
-<img align="left" alt="Estadisticas de Frank0h" src="https://github-readme-stats.vercel.app/api?username=Frank0h&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
+<img align="left" alt="Estadisticas de Frank0h" src="https://github-readme-stats.vercel.app/api?username=Frank0h&show_icons=true&theme=radical" />
 
 [visual]: https://code.visualstudio.com
 [javascript]: https://www.javascript.com
