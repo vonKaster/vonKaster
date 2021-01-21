@@ -1,16 +1,17 @@
 ### Hola, Soy [Franco](https://francocaminos.me) 👋
 
 <a href="https://twitter.com/Frank0h_">
-<img align="left" alt="Twitter" width="20px" src="https://www.vectorico.com/download/social_media/Twitter-Logo.svg" />
+<img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/Frank0h/Frank0h/master/icons/twitter.svg" />
 </a>
 <a href="https://discordapp.com/users/346056678543851521">
-<img align="left" alt="Discord" width="21px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />
+<img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/Frank0h/Frank0h/master/icons/discord-round.svg" />
 </a>
 <a href="https://mail.google.com/#inbox?compose=VpCqJVFFvbwvCsLPGcTSnhMcXJRKdgtgPWVtxJZfrNxcZJnpCHQCvcSrqkbMNQqMPfClvgg">
-<img align="left" alt="Discord" width="20px" src="https://www.flaticon.es/svg/vstatic/svg/281/281769.svg?token=exp=1611258159~hmac=1e6d9bee97957ca12a6406c649f588d8" />
+<img align="left" alt="Email" width="21px" src="https://raw.githubusercontent.com/Frank0h/Frank0h/master/icons/gmail.svg" />
 </a>
 
-<br>
+<br />
+<br />
 
 - 😆 Tengo 17 años y resido en Buenos Aires, Argentina
 - 🎓 Actualmente aprendiendo React
