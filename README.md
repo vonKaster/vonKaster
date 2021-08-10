@@ -24,8 +24,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="VSC" width="31px" src="icons/vsc.png"/>
-<img align="left" alt="Python" width="31px" src="icons/python.png"/>
-<img align="left" alt="JavaScript" width="31px" src="icons/js.png"/> 
 <img align="left" alt="Java" width="31px" src="icons/java.svg"/>
 <img align="left" alt="PHP" width="31px" src="icons/php.png"/>
 <img align="left" alt="MySQL" width="31px" src="icons/mysql.png"/>
@@ -35,8 +33,6 @@
 <br />
 
 ---
-<div style="text-align: center">
-<a href="link">
-
-<img src="icons/dance.gif" align="center"></a>
-</div>
+<p align="center">
+  <img src="icons/dance.gif" alt="Dance" />
+</p>
