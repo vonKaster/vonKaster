@@ -1,20 +1,9 @@
-### Hi, I'm [vonKaster](https://vonkaster.live) 👋 <img src="https://metrics.lecoq.io/vonKaster?template=classic&languages=1&activity=1" alt="Stats" align="right">
-
-<a href="https://twitter.com/_vonKaster">
-<img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/Frank0h/Frank0h/master/icons/twitter.svg" /></a>
-
-<a href="https://discordapp.com/users/346056678543851521">
-<img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/Frank0h/Frank0h/master/icons/discord-round.svg" /></a>
-
-<a href="https://mail.google.com/#inbox?compose=GTvVlcSMM8ECLaq9zC4xgck6QUJACuAxDkZyouDAnpmVm7vmJVN43LDLF1oxhxCN1pdcMKw3PZzdB">
-<img align="left" alt="Email" width="21px" src="https://raw.githubusercontent.com/Frank0h/Frank0h/master/icons/gmail.svg"/></a>
-
-<br />
+### Hi, I'm [vonKaster](https://vonkaster.live) 👋
 <br />
 
 - 😄 Pronouns: He/him/his.
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: vonkaster@protonmail.com
+- 📫 How to reach me: francocaminos9@gmail.com
 
 ---
 ### Music ♫ 
