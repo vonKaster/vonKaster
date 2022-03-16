@@ -1,7 +1,7 @@
 ### Hi, I'm [Franco](https://github.com/vonKaster) 👋
 <br />
 
-- 😄 Pronouns: He/him/his.
+- 😄 Pronouns: He
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: francocaminos9@gmail.com
 
