@@ -7,6 +7,10 @@
 
 ---
 
+### Music ♫ 
+
+[<img src="https://now-playing-two.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/5co7vzv8feodu7lvqqap3c8qd)
+
 ### Languages and Tools:
 
 <img align="left" alt="VSC" width="31px" src="icons/vsc.png"/>
