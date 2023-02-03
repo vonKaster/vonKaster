@@ -3,7 +3,7 @@
 <br />
 
 - 😄 Pronouns: He
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning VUE.
 - 📫 How to reach me: francocaminos9@gmail.com
 
 ---
