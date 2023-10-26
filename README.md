@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: He
 - 🌱 I’m currently learning VUE.
-- 📫 How to reach me: fcaminos@digicard.net
+- 📫 How to reach me: franco@bewise.com.es
 
 ---
 
