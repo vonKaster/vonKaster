@@ -1,9 +1,9 @@
-### Hi, I'm [Franco](https://github.com/vonKaster) 👋
+### Hi, I'm [vonKaster](https://github.com/vonKaster) 👋
 
 <br />
 
 - 😄 Pronouns: He
-- 🌱 I’m currently learning VUE.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: franco@bewise.com.es
 
 ---
