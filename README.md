@@ -10,7 +10,7 @@
 
 ### Music ♫
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312nxvxxxygykmu7g5xrwb62anue&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312nxvxxxygykmu7g5xrwb62anue&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages and Tools:
 
