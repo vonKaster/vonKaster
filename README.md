@@ -3,8 +3,8 @@
 <br />
 
 - 😄 Pronouns: He
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me: franco@bewise.com.es
+- 🌱 I’m currently learning NodeJS.
+- 📫 How to reach me: francocaminos@buenosaires.gob.ar
 
 ---
 
