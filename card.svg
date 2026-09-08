@@ -1,0 +1,151 @@
+<svg viewBox="0 0 680 746" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace" role="img" aria-labelledby="title desc">
+<title id="title">Franco Caminos — Software Engineer y Software Architect</title>
+<desc id="desc">Proyectos seleccionados, experiencia profesional y capacidades técnicas.</desc>
+<style>
+:root { --bg:#fff; --border:#d0d7de; --text:#1f2328; --muted:#656d76; --tag-bg:#f6f8fa; --tag-border:#d0d7de; --accent:#0969da; --feature-bg:#f1f8ff; }
+@media (prefers-color-scheme:dark) { :root { --bg:#0d1117; --border:#30363d; --text:#e6edf3; --muted:#8b949e; --tag-bg:#161b22; --tag-border:#30363d; --accent:#58a6ff; --feature-bg:#0c2036; } }
+.title { font-size:11.5px; font-weight:500; fill:var(--text); letter-spacing:.3px; }
+.copy { font-size:10px; fill:var(--muted); }
+.pill rect { fill:var(--tag-bg); stroke:var(--tag-border); stroke-width:.5; }
+.pill text { font-size:9px; fill:var(--muted); text-anchor:middle; }
+.role { font-size:11px; font-weight:500; fill:var(--text); }
+.date { font-size:10px; fill:var(--muted); text-anchor:end; }
+.tech-label { font-size:8.5px; font-weight:500; fill:var(--text); }
+.tech-copy { font-size:8.5px; fill:var(--muted); }
+.name { font-family:ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:18px; font-weight:700; letter-spacing:-.35px; fill:var(--text); }
+</style>
+
+<defs>
+<clipPath id="type-1"><rect x="32" y="50" width="0" height="18"><animate id="type1" attributeName="width" values="0;123;123;0" keyTimes="0;.32;.78;1" dur="4s" begin="0s;type6.end" fill="freeze"/></rect></clipPath>
+<clipPath id="type-2"><rect x="32" y="50" width="0" height="18"><animate id="type2" attributeName="width" values="0;130;130;0" keyTimes="0;.32;.78;1" dur="4s" begin="type1.end" fill="freeze"/></rect></clipPath>
+<clipPath id="type-3"><rect x="32" y="50" width="0" height="18"><animate id="type3" attributeName="width" values="0;123;123;0" keyTimes="0;.32;.78;1" dur="4s" begin="type2.end" fill="freeze"/></rect></clipPath>
+<clipPath id="type-4"><rect x="32" y="50" width="0" height="18"><animate id="type4" attributeName="width" values="0;116;116;0" keyTimes="0;.32;.78;1" dur="4s" begin="type3.end" fill="freeze"/></rect></clipPath>
+<clipPath id="type-5"><rect x="32" y="50" width="0" height="18"><animate id="type5" attributeName="width" values="0;188;188;0" keyTimes="0;.32;.78;1" dur="4s" begin="type4.end" fill="freeze"/></rect></clipPath>
+<clipPath id="type-6"><rect x="32" y="50" width="0" height="18"><animate id="type6" attributeName="width" values="0;159;159;0" keyTimes="0;.32;.78;1" dur="4s" begin="type5.end" fill="freeze"/></rect></clipPath>
+</defs>
+
+<rect width="680" height="746" fill="var(--bg)"/>
+
+<text class="name" x="32" y="44">Franco Caminos</text>
+
+<!-- subtítulo animado: escritura, pausa y borrado -->
+<g opacity="0" aria-hidden="true">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.98;1" dur="4s" begin="type1.begin" fill="freeze"/>
+  <text x="32" y="64" font-size="11" fill="var(--muted)" letter-spacing=".5" clip-path="url(#type-1)">software engineer</text>
+  <rect x="32" y="53" width="1.5" height="12" fill="var(--accent)"><animate attributeName="x" values="32;157;157;32" keyTimes="0;.32;.78;1" dur="4s" begin="type1.begin" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur=".7s" repeatCount="indefinite"/></rect>
+</g>
+<g opacity="0" aria-hidden="true">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.98;1" dur="4s" begin="type2.begin" fill="freeze"/>
+  <text x="32" y="64" font-size="11" fill="var(--muted)" letter-spacing=".5" clip-path="url(#type-2)">software architect</text>
+  <rect x="32" y="53" width="1.5" height="12" fill="var(--accent)"><animate attributeName="x" values="32;164;164;32" keyTimes="0;.32;.78;1" dur="4s" begin="type2.begin" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur=".7s" repeatCount="indefinite"/></rect>
+</g>
+<g opacity="0" aria-hidden="true">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.98;1" dur="4s" begin="type3.begin" fill="freeze"/>
+  <text x="32" y="64" font-size="11" fill="var(--muted)" letter-spacing=".5" clip-path="url(#type-3)">ai-first engineer</text>
+  <rect x="32" y="53" width="1.5" height="12" fill="var(--accent)"><animate attributeName="x" values="32;157;157;32" keyTimes="0;.32;.78;1" dur="4s" begin="type3.begin" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur=".7s" repeatCount="indefinite"/></rect>
+</g>
+<g opacity="0" aria-hidden="true">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.98;1" dur="4s" begin="type4.begin" fill="freeze"/>
+  <text x="32" y="64" font-size="11" fill="var(--muted)" letter-spacing=".5" clip-path="url(#type-4)">backend engineer</text>
+  <rect x="32" y="53" width="1.5" height="12" fill="var(--accent)"><animate attributeName="x" values="32;150;150;32" keyTimes="0;.32;.78;1" dur="4s" begin="type4.begin" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur=".7s" repeatCount="indefinite"/></rect>
+</g>
+<g opacity="0" aria-hidden="true">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.98;1" dur="4s" begin="type5.begin" fill="freeze"/>
+  <text x="32" y="64" font-size="11" fill="var(--muted)" letter-spacing=".5" clip-path="url(#type-5)">devops &amp; platform engineer</text>
+  <rect x="32" y="53" width="1.5" height="12" fill="var(--accent)"><animate attributeName="x" values="32;222;222;32" keyTimes="0;.32;.78;1" dur="4s" begin="type5.begin" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur=".7s" repeatCount="indefinite"/></rect>
+</g>
+<g opacity="0" aria-hidden="true">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.98;1" dur="4s" begin="type6.begin" fill="freeze"/>
+  <text x="32" y="64" font-size="11" fill="var(--muted)" letter-spacing=".5" clip-path="url(#type-6)">technology coordinator</text>
+  <rect x="32" y="53" width="1.5" height="12" fill="var(--accent)"><animate attributeName="x" values="32;193;193;32" keyTimes="0;.32;.78;1" dur="4s" begin="type6.begin" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur=".7s" repeatCount="indefinite"/></rect>
+</g>
+<line x1="32" y1="78" x2="648" y2="78" stroke="var(--border)" stroke-width=".5"/>
+<text x="32" y="98" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">TRABAJO SELECCIONADO</text>
+
+<!-- proyectos -->
+<rect x="32" y="110" width="308" height="129" fill="var(--feature-bg)"/>
+<rect x="32" y="110" width="616" height="258" fill="none" stroke="var(--border)" stroke-width=".5"/>
+<rect x="32" y="110" width="308" height="129" fill="none" stroke="var(--accent)" stroke-width=".8"/>
+<line x1="340" y1="110" x2="340" y2="368" stroke="var(--border)" stroke-width=".5"/>
+<line x1="32" y1="239" x2="648" y2="239" stroke="var(--border)" stroke-width=".5"/>
+
+<text class="title" x="48" y="136">ecosistema BAX</text>
+<text x="324" y="133" font-size="7.5" font-weight="500" fill="var(--accent)" text-anchor="end" letter-spacing="1.2">DESTACADO</text>
+<text class="copy" x="48" y="154">Nueva plataforma del Gobierno de Buenos Aires.</text>
+<text class="copy" x="48" y="168">Servicios digitales con IA para simplificar la</text>
+<text class="copy" x="48" y="182">relación entre la Ciudad y sus ciudadanos.</text>
+<g class="pill"><rect x="48" y="196" width="46" height="16" rx="2"/><text x="71" y="208">python</text></g>
+<g class="pill"><rect x="100" y="196" width="34" height="16" rx="2"/><text x="117" y="208">java</text></g>
+<g class="pill"><rect x="140" y="196" width="52" height="16" rx="2"/><text x="166" y="208">flutter</text></g>
+<g class="pill"><rect x="198" y="196" width="56" height="16" rx="2"/><text x="226" y="208">ai agent</text></g>
+
+<text class="title" x="356" y="136">fortilinux client</text>
+<text class="copy" x="356" y="154">Cliente VPN open source para Linux. Gestiona</text>
+<text class="copy" x="356" y="168">conexiones, tráfico y logs sobre openfortivpn,</text>
+<text class="copy" x="356" y="182">con una experiencia simple y auditable.</text>
+<g class="pill"><rect x="356" y="196" width="66" height="16" rx="2"/><text x="389" y="208">typescript</text></g>
+<g class="pill"><rect x="428" y="196" width="42" height="16" rx="2"/><text x="449" y="208">react</text></g>
+<g class="pill"><rect x="476" y="196" width="54" height="16" rx="2"/><text x="503" y="208">electron</text></g>
+<g class="pill"><rect x="536" y="196" width="40" height="16" rx="2"/><text x="556" y="208">linux</text></g>
+
+<text class="title" x="48" y="265">puente api</text>
+<text class="copy" x="48" y="283">Microservicio para instrumentos financieros.</text>
+<text class="copy" x="48" y="297">JWT, precios, caché, scheduler y auditoría</text>
+<text class="copy" x="48" y="311">sobre una arquitectura hexagonal.</text>
+<g class="pill"><rect x="48" y="325" width="34" height="16" rx="2"/><text x="65" y="337">java</text></g>
+<g class="pill"><rect x="88" y="325" width="44" height="16" rx="2"/><text x="110" y="337">spring</text></g>
+<g class="pill"><rect x="138" y="325" width="66" height="16" rx="2"/><text x="171" y="337">postgresql</text></g>
+<g class="pill"><rect x="210" y="325" width="44" height="16" rx="2"/><text x="232" y="337">docker</text></g>
+
+<text class="title" x="356" y="265">████████ / censurado</text>
+<text class="copy" x="356" y="283">Información restringida. Arquitectura, alcance</text>
+<text class="copy" x="356" y="297">y fecha de publicación todavía clasificados.</text>
+<text class="copy" x="356" y="311">estado del expediente: próximamente.</text>
+<g class="pill"><rect x="356" y="325" width="58" height="16" rx="2" style="fill:var(--text);stroke:var(--text)"/><text x="385" y="337" style="fill:var(--bg)">redacted</text></g>
+<g class="pill"><rect x="420" y="325" width="40" height="16" rx="2"/><text x="440" y="337">soon</text></g>
+
+<!-- experiencia -->
+<line x1="32" y1="390" x2="648" y2="390" stroke="var(--border)" stroke-width=".5"/>
+<text x="32" y="410" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">EXPERIENCIA</text>
+
+<text class="role" x="32" y="430">TecBA — Coordinador de Tecnología | Identidad Digital</text>
+<text class="date" x="636" y="430">jun 2026 — actualidad</text>
+<text class="copy" x="32" y="444">equipos técnicos · arquitectura · AI-first · seguridad · operación</text>
+
+<text class="role" x="32" y="462">TecBA — Líder Técnico</text>
+<text class="date" x="636" y="462">mar 2026 — jun 2026</text>
+<text class="copy" x="32" y="476">plataformas de datos · productos internos · DevOps · confiabilidad</text>
+
+<text class="role" x="32" y="494">TecBA / GCBA — Full Stack Developer</text>
+<text class="date" x="636" y="494">ago 2024 — mar 2026</text>
+<text class="copy" x="32" y="508">servicios masivos · APIs · auditorías · performance · despliegues</text>
+
+<text class="role" x="32" y="526">Bewise — Full Stack Developer</text>
+<text class="date" x="636" y="526">sep 2023 — ago 2024</text>
+<text class="copy" x="32" y="540">soluciones end-to-end · code review · stress testing · VPS</text>
+
+<text class="role" x="32" y="558">Digicard — Front End Developer</text>
+<text class="date" x="636" y="558">ene 2023 — sep 2023</text>
+<text class="copy" x="32" y="572">productos web · backoffices · integraciones · automatización</text>
+
+<!-- stack -->
+<line x1="32" y1="590" x2="648" y2="590" stroke="var(--border)" stroke-width=".5"/>
+<text x="32" y="610" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">TECNOLOGÍAS &amp; CAPACIDADES</text>
+
+<text class="tech-label" x="32" y="632">BACKEND</text>
+<text class="tech-copy" x="105" y="632">Java · Spring Boot · Quarkus · Hibernate · JHipster</text>
+<text class="tech-label" x="32" y="648">SERVICIOS</text>
+<text class="tech-copy" x="105" y="648">Node.js · NestJS · Express · Python · FastAPI · REST · microservicios</text>
+<text class="tech-label" x="32" y="664">FRONTEND</text>
+<text class="tech-copy" x="105" y="664" style="font-size:8px">React · TypeScript · JavaScript · Angular · Vue · Redux · Shadcn · Vuetify · Ant Design · NG Zorro · Obelisco</text>
+<text class="tech-label" x="32" y="680">PLATAFORMA</text>
+<text class="tech-copy" x="105" y="680">Docker · Kubernetes · OpenShift · Vault · Nginx · Bash · Linux · CI/CD · Elastic · Kibana</text>
+<text class="tech-label" x="32" y="696">DATOS</text>
+<text class="tech-copy" x="105" y="696">PostgreSQL · MySQL · MariaDB · MongoDB · Oracle · Redis · Quartz</text>
+<text class="tech-label" x="32" y="712">TOOLS</text>
+<text class="tech-copy" x="105" y="712">Git · Maven · JUnit · Postman · Insomnia · Jira · Confluence · HTML5 · CSS3</text>
+<text class="tech-label" x="32" y="728">AI</text>
+<text class="tech-copy" x="105" y="728">multi-agent · harnesses · automated testing · quality gates · observabilidad · disaster recovery</text>
+
+<line x1="32" y1="740" x2="648" y2="740" stroke="var(--border)" stroke-width=".5"/>
+</svg>
